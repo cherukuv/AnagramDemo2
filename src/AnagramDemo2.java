@@ -1,4 +1,12 @@
-
+/*
+ * Program: 
+ * 1. This program will find all the anagrams from given text or string
+ * User input: cat pat gat tac act apt kat agt tat
+ * Output: [act, cat, tac]
+ *         [pat, apt]
+ *         [gat, agt]
+ * Author: vignan cheruku
+ */
 import java.io.*;
 import java.util.*;
 import java.util.regex.Pattern;
